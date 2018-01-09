@@ -18,12 +18,19 @@ node_modules
 # logs
 *.log
 
-# Nuxt build
-.nuxt
-
-# Nuxt generate
-dist
+# VUE build
+build/
+config/
+src/
+static/
 dist.zip
+LICENSE
+.babelrc
+.editorconfig
+.eslintignore
+.gitattributes
+.eslintrc.js
+.postcssrc.js
 
 # firebase
 .firebaserc
